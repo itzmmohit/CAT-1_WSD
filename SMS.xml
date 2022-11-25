@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="SMS.xsl" type="text/xsl"?>
+<college >
+    <student>
+        <name>Mohit Mehta</name>
+        <course>MCA</course>
+        <sem>2nd Trimester</sem>
+        <sub1>89</sub1>
+        <sub2>87</sub2>
+        <sub3>97</sub3>
+        <total>273</total>
+        <avg>91</avg>
+    </student>
+    <student>
+        <name>Suvigya Tiwari</name>
+        <course>MCA</course>
+        <sem>2nd Trimester</sem>
+        <sub1>76</sub1>
+        <sub2>98</sub2>
+        <sub3>91</sub3>
+        <total>265</total>
+        <avg>88</avg>
+    </student>
+    <student>
+        <name>Nitin Singh</name>
+        <course>MCA</course>
+        <sem>4th Trimester</sem>
+        <sub1>88</sub1>
+        <sub2>73</sub2>
+        <sub3>45</sub3>
+        <total>206</total>
+        <avg>68</avg>
+    </student>
+    <student>
+        <name>Aakansha Agarwal</name>
+        <course>BCA</course>
+        <sem>6th Semester</sem>
+        <sub1>99</sub1>
+        <sub2>84</sub2>
+        <sub3>86</sub3>
+        <total>269</total>
+        <avg>89</avg>
+    </student>
+    <student>
+        <name>Ankita Arora</name>
+        <course>BCA</course>
+        <sem>5th Semester</sem>
+        <sub1>67</sub1>
+        <sub2>89</sub2>
+        <sub3>69</sub3>
+        <total>225</total>
+        <avg>78</avg>
+    </student>
+</college>
